@@ -72,6 +72,7 @@ Content-Type: text/html; charset=UTF-8
 <body>
     <p>Estimado soporte,</p>
     <p>$BODY</p>
+    <p><b>Información del servidor:</b></p>
     <ul>
       <li><b>IP del servidor:</b> $IP</li>
       <li><b>Fecha y Hora en servidor:</b> $DATE</li>
